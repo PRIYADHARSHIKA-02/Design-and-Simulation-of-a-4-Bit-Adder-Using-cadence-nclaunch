@@ -92,6 +92,7 @@ endmodule
 
 ## Truth Table for 4-Bit Full Adder
 
+
 ![image](https://github.com/user-attachments/assets/567af4cf-875d-448b-b616-40e450d5bbde)
 
 
